@@ -1,11 +1,12 @@
 
-<p align="center">
-<a href="https://lean-sat.org/opensource/" class="button icon calendar">Join Monthly Webinar</a>
-</p>
-
 <div align="center">
-<img  width="25%" src="https://github.com/BIRDSOpenSource/BIRDS5-CAD/assets/100206676/fd3ff8ed-76a4-4b20-aec6-1a9d83f25005">
+  <a href="https://lean-sat.org/opensource/">
+  <img alt="Join the monthly community webinars" src="https://img.shields.io/badge/join_our-monthly_webinars-orange" />
+  </a>
 </div>
+
+
+<img  width="25%" src="https://github.com/BIRDSOpenSource/BIRDS5-CAD/assets/100206676/fd3ff8ed-76a4-4b20-aec6-1a9d83f25005"> <img width="25%" src="https://github.com/BIRDSOpenSource/BIRDS5-CAD/assets/100206676/5cb7bd65-6989-4c46-8026-098282452dca">
 
 
 # BIRDS5-CAD
@@ -15,10 +16,7 @@
 > Source CAD file in Fusion 360 is too large (147MB) for github. A link to an external cloud storage platform will be added soon.
 
 
-
 ## About the BIRDS5 Program:
-
-<img width="50%" src="https://github.com/BIRDSOpenSource/BIRDS5-CAD/assets/100206676/5cb7bd65-6989-4c46-8026-098282452dca">
 
 The Mission Statement of the Project is:
 
@@ -42,7 +40,29 @@ BIRDS-5 has 5 main missions in total; attitude visualisation, Imaging classifica
 
 ## Organisation structure
 
+```bash
 
+├── .gitattributes
+├── 1U Drawings
+│   ├── 0_1U_STD.pdf
+│   ├── 10_1U_STD.pdf
+│   ├── 12_1U_STD.pdf
+│   ├── 13_1U_STD.pdf
+│   ├── 14_1U_STD.pdf
+│   ├── 1_1U_STD.pdf
+│   ├── 2_1U_STD.pdf
+│   ├── 3_1U_STD.pdf
+│   ├── 4_1U_STD.pdf
+│   ├── 5_1U_STD.pdf
+│   ├── 6_1U_STD.pdf
+│   ├── 7_1U_STD.pdf
+│   ├── 8_1U_STD.pdf
+│   └── 9_1U_STD.pdf
+├── LICENSE
+├── README.md
+└── Screw list.docx
+
+```
 ## Features
 
 
